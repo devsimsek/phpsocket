@@ -1,5 +1,5 @@
 <?php
-class Socket extends WebSocketServer
+class LightSocket extends WebSocketServer
 {
 
   /**
